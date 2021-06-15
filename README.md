@@ -1,4 +1,3 @@
-# JDC-web-master
 # jdc
 
 ## Project setup
